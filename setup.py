@@ -8,6 +8,7 @@ setuptools.setup (
   author = "jinsobak",
   author_email="jinsobak@gmail.com",
   url = "https://github.com/jinsobak/MyRepository/",
+  download_url = "https://github.com/jinsobak/MyRepository/archive/refs/tags/0.0.1.zip",
   install_requires = ['pytest'],
   long_description = "oss development..."
   long_description_content_type = "text/markdown",
